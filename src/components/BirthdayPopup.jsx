@@ -211,7 +211,7 @@ export default function BirthdayPopup() {
               marginBottom: '0.75rem',
               textShadow: '0 2px 10px rgba(0,0,0,0.5)',
             }}>
-              🎉 Happy Birthday <span style={{ color: '#D4AF37', fontFamily: "inherit", fontWeight: 600 }}>LIFE</span>! 🎂
+              🎉 Happy Birthday <span style={{ color: '#D4AF37', fontFamily: "inherit", fontWeight: 600 }}>My Life</span>! 🎂
             </h2>
 
             <p style={{
