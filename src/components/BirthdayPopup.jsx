@@ -204,7 +204,7 @@ export default function BirthdayPopup() {
 
             <h2 style={{
               fontFamily: "'Cormorant Garamond', Georgia, serif",
-              fontSize: 'clamp(1.8rem, 4vw, 2.5rem)',
+              fontSize: 'clamp(1.2rem, 3vw, 1.8rem)',
               color: '#FFF',
               fontWeight: 400,
               lineHeight: 1.25,
